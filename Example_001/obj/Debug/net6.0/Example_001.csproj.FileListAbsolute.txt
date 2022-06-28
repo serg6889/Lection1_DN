@@ -1,0 +1,15 @@
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection1_DN/Example_001/bin/Debug/net6.0/Example_001
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection1_DN/Example_001/bin/Debug/net6.0/Example_001.deps.json
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection1_DN/Example_001/bin/Debug/net6.0/Example_001.runtimeconfig.json
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection1_DN/Example_001/bin/Debug/net6.0/Example_001.dll
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection1_DN/Example_001/bin/Debug/net6.0/Example_001.pdb
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection1_DN/Example_001/obj/Debug/net6.0/Example_001.csproj.AssemblyReference.cache
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection1_DN/Example_001/obj/Debug/net6.0/Example_001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection1_DN/Example_001/obj/Debug/net6.0/Example_001.AssemblyInfoInputs.cache
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection1_DN/Example_001/obj/Debug/net6.0/Example_001.AssemblyInfo.cs
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection1_DN/Example_001/obj/Debug/net6.0/Example_001.csproj.CoreCompileInputs.cache
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection1_DN/Example_001/obj/Debug/net6.0/Example_001.dll
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection1_DN/Example_001/obj/Debug/net6.0/refint/Example_001.dll
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection1_DN/Example_001/obj/Debug/net6.0/Example_001.pdb
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection1_DN/Example_001/obj/Debug/net6.0/Example_001.genruntimeconfig.cache
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection1_DN/Example_001/obj/Debug/net6.0/ref/Example_001.dll
